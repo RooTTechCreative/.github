@@ -35,4 +35,4 @@ RootTech Creative é uma empresa de tecnologia focada em fornecer soluções de 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/sua-conta/roottech-creative.git
+   git clone https://github.com/RooTTechCreative/ERP.git
