@@ -28,3 +28,11 @@ RiooTech Creative é uma empresa de tecnologia focada em fornecer soluções de 
   - Notificações e alertas em caso de níveis críticos de umidade ou falhas no sistema.
 
 </details>
+
+<details>
+  <summary><strong>BeefBalance</strong></summary>
+
+  ### Monitoramento da Pesagem do Animal:
+  - Sensores integrados para medir a umidade do solo em tempo real.
+  - Acompanhamento contínuo para evitar o excesso ou a falta de água nas plantações.
+</details>
