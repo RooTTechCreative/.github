@@ -1,4 +1,4 @@
-# Rioot Creative Tech - Sistema de Automação de Fazendas
+# RiooTech - Sistema de Automação de Fazendas
 
 Bem-vindo ao RootTech Creative, onde criamos soluções inovadoras para a gestão eficiente de fazendas por meio de nosso sistema de automação avançado. Este software foi desenvolvido para facilitar a administração de animais, controle de bebedouros, vacinação e monitoramento em tempo real.
 
